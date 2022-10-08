@@ -5,4 +5,4 @@
 
 ###### Buatlah web seperti di modul dan ubahlah tampilannya 
 > Screenshot tampilan dimasukkan dalam readme
-![https://github.com/AhmadAlwanLubis/PC5_Tugas1/blob/main/mr.jpg]
+![mr](https://github.com/AhmadAlwanLubis/PC5_Tugas1/blob/main/mr.jpg)
