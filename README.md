@@ -1,5 +1,5 @@
-# PC5_Tugas1_nim
-### Nama
+# PC5_Tugas1_201401105
+### Ahmad Alwan Lubis
 ### PC 5
 
 
